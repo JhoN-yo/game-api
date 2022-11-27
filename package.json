@@ -20,7 +20,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@prisma/client": "4.6.1",
+    "@prisma/client": "^4.6.1",
     "express": "^4.18.2",
     "uuid": "^9.0.0"
   },
